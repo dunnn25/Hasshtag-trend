@@ -1,0 +1,19 @@
+{
+  "name": "hashtag-trends",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "recharts": "^2.12.7",
+    "papaparse": "^5.4.1",
+    "chrono-node": "^2.7.0"
+  },
+  "devDependencies": {
+    "react-scripts": "^5.0.1"
+  }
+}
